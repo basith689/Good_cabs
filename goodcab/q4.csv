@@ -1,0 +1,7 @@
+city_id,total_new_passengers,city_category
+RJ01,54000,Top 3
+KL01,27000,Top 3
+CH01,21000,Top 3
+GJ01,10500,Bottom 3
+GJ02,9900,Bottom 3
+TN01,7500,Bottom 3
